@@ -1,2 +1,2 @@
-# springboot-postgresql-hibernate-crud-example
-Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Tutorial - https://youtu.be/eWbGV3LLwVQ
+# springboot-postgresql-hibernate-crud
+Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API - https://https://rogerscompany.org/interactive-resume
